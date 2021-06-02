@@ -1,3 +1,3 @@
 # Power-BI-Dashboards
 
-# ![](/Images/Graduation%20pic.png)
+# ![](/https://github.com/SweHar/Power-BI-Dashboards/blob/main/Products_Dashboard.jpg)
